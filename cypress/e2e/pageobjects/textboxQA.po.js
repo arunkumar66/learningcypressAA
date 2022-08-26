@@ -1,9 +1,8 @@
 class textboxpage{
     username2(){
-        return '//input[@id="userName"]'
+        return '//input[@class=" mr-sm-2 form-control"]'
     }
     email2(){
-
         return '//input[@id="userEmail"]'
     }
     currentaddress(){
